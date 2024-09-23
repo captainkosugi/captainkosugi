@@ -11,24 +11,24 @@
                          '-`  |_|     '-`  |_|     '-`  |_|
                         /mmm/        /mmm/        /mmm/
 
-┌──┤ WHOAMI ├─────────▰▰▰
+┌──┤ whoami ├─────────▰▰▰
 │
 ├─▣ Alex
-├─▣ Beginner QA
+├─▣ beginner QA
 ├─▣ coding enthusiast
-├─▣ Trying to get my wishes
+├─▣ trying to get my wishes
 │
 └───────────────────────────────▰▰▰
 
-┌──┤ SOCIAL ├─────────▰▰▰
+┌──┤ contact ├─────────▰▰▰
 │
 ├─◈ <a href="https://t.me/nightswishiii">Telegram</a>
 │
 └───────────────────────────────▰▰▰
 
-┌──┤ PROJECTS ├───────▰▰▰
+┌──┤ projects ├───────▰▰▰
 │
-├─◈ In development
+├─◈ in development
 │
 └───────────────────────────────▰▰▰
 </pre>
