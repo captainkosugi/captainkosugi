@@ -1,3 +1,5 @@
+<pre>
+
   ___   _      ___   _      ___   _      ___   _      ___   _
  [(_)] |=|    [(_)] |=|    [(_)] |=|    [(_)] |=|    [(_)] |=|
   '-`  |_|     '-`  |_|     '-`  |_|     '-`  |_|     '-`  |_|
@@ -13,19 +15,20 @@
 │
 ├─▣ Alex
 ├─▣ Beginner QA
-├─▣ Coding enthusiast
+├─▣ coding enthusiast
 ├─▣ Trying to get my wishes
 │
 └───────────────────────────────▰▰▰
 
-┌──┤ CONTACT ├─────────▰▰▰
+┌──┤ SOCIAL ├─────────▰▰▰
 │
-├─◈ [Telegram](@nightswishiii)
+├─◈ <a href="https://t.me/nightswishiii">Telegram</a>
 │
 └───────────────────────────────▰▰▰
 
 ┌──┤ PROJECTS ├───────▰▰▰
-│ 
+│
 ├─◈ In development
 │
 └───────────────────────────────▰▰▰
+</pre>
