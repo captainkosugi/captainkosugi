@@ -14,10 +14,10 @@
 ┌──┤ whoami ├─────────▰▰▰
 │
 ├─▣ Alex
-├─▣ beginner QA
-├─▣ coding enthusiast
+├─▣ beginner Java QA
 ├─▣ data scraper
-├─▣ a bit freelance
+├─▣ coding enthusiast
+├─▣ a bit freelance coding enthusiast
 ├─▣ trying to get my wishes
 │
 └───────────────────────────────▰▰▰
