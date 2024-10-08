@@ -17,7 +17,7 @@
 ├─▣ beginner Java QA
 ├─▣ data scraper
 ├─▣ coding enthusiast
-├─▣ a bit freelance coding enthusiast
+├─▣ a bit freelance
 ├─▣ trying to get my wishes
 │
 └───────────────────────────────▰▰▰
