@@ -31,7 +31,7 @@
 
 ┌──┤ tools ├───────▰▰▰
 │
-├─◈ java Core
+├─◈ java core
 ├─◈ git
 ├─◈ linux
 ├─◈ selenide
