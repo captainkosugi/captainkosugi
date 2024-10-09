@@ -29,9 +29,13 @@
 │
 └───────────────────────────────▰▰▰
 
-┌──┤ projects ├───────▰▰▰
+┌──┤ tools ├───────▰▰▰
 │
-├─◈ in development
+├─◈ java Core
+├─◈ git
+├─◈ linux
+├─◈ selenide
+├─◈ allure report
 │
 └───────────────────────────────▰▰▰
 </pre>
