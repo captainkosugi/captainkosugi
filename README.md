@@ -24,7 +24,7 @@
 
 ┌──┤ contact ├─────────▰▰▰
 │
-├─◈ <a href="https://t.me/nightswishiii">Telegram</a>
+├─◈ <a href="https://t.me/captainshou">Telegram</a>
 ├─◈ <a href="https://www.fiverr.com/s/ljYz9le">Fiverr</a>
 │
 └───────────────────────────────▰▰▰
