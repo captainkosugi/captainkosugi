@@ -15,7 +15,8 @@ _  ___ |  / / / / /  __/  / _  /
 ┌──┤ whoami ├─────────▰▰▰
 │
 ├─▣ Alex
-├─▣ beginner Java QA
+├─▣ beginner Java
+├─▣ backend & qaa
 ├─▣ data scraper
 ├─▣ coding enthusiast
 ├─▣ a bit freelance
