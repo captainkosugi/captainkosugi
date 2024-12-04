@@ -22,7 +22,7 @@
 │
 ├─▣ Alex
 ├─▣ beginner Java
-├─▣ backend & qaa
+├─▣ fullstack
 ├─▣ data scraper
 ├─▣ coding enthusiast
 ├─▣ a bit freelance
@@ -41,10 +41,10 @@
 │
 ├─◈ java core
 ├─◈ spring boot
-├─◈ selenide
-├─◈ allure report
-├─◈ git
+├─◈ postgresql
+├─◈ js beginner
 ├─◈ html/css
+├─◈ git
 ├─◈ linux
 │
 └───────────────────────────────▰▰▰
