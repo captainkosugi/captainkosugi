@@ -20,8 +20,7 @@
 
 ┌──┤ whoami ├─────────▰▰▰
 │
-├─▣ Alex
-├─▣ JS + Java
+├─▣ alex
 ├─▣ fullstack
 ├─▣ data scraper
 ├─▣ coding enthusiast
