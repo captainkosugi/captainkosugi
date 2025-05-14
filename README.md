@@ -16,7 +16,7 @@
 
 ┌──┤ tools ├───────▰▰▰
 │
-├─◈ js + java
+├─◈ java
 ├─◈ spring boot
 ├─◈ postgresql
 ├─◈ html/css
