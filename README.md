@@ -2,7 +2,6 @@
 ┌──┤ whoami ├─────────▰▰▰
 │
 ├─▣ alex
-├─▣ beginner fullstack
 ├─▣ coding enthusiast
 ├─▣ trying to get my wishes
 │
@@ -17,6 +16,7 @@
 ┌──┤ tools ├───────▰▰▰
 │
 ├─◈ java
+├─◈ kotlin
 ├─◈ spring boot
 ├─◈ postgresql
 ├─◈ html/css
