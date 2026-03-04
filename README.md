@@ -2,7 +2,7 @@
 ┌──┤ whoami ├─────────▰▰▰
 │
 ├─▣ alex
-├─▣ coding enthusiast
+├─▣ lazy coding enthusiast
 ├─▣ trying to get my wishes
 │
 └───────────────────────────────▰▰▰
